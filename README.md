@@ -1,4 +1,4 @@
-# PHYS220 CW 14
+# CS510 CW 14
 
 **Author:** _\<your name\>_
 
