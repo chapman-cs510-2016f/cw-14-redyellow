@@ -10,7 +10,8 @@ Complete the following exercise in a Jupyter notebook ```GHCND.ipynb```. Using t
 
 ## Assessment
 
-_\<Analyze what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.\>_
+**_I learned how to use pandas load csv file into database, even though this database isn't good enough as mysql,oracle. I still can use SQL to do query. 
+_Besides, I reviewed how to use matplotlib to plot graphs, from the graph I can see datas more clearly and get some conclusion.**
 
 ## Honor Pledge
 
